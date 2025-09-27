@@ -1,6 +1,3 @@
-# LiveStream-Scripts
-Script for 24/7 Livestream GCP Config
-
 #!/bin/bash
 
 # Ubuntu Streaming Setup Script for GCP
